@@ -1,1 +1,12 @@
-
+add_conta:
+  description: Adiciona uma nova conta
+  fields:
+    descricao:
+      description: Descrição da conta
+      example: "Aluguel"
+    valor:
+      description: Valor da conta
+      example: 1500.00
+    data_vencimento:
+      description: Data de vencimento (YYYY-MM-DD)
+      example: "2023-12-10"
