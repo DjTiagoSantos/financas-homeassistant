@@ -2,8 +2,9 @@
   "domain": "financas",
   "name": "Organizador Financeiro",
   "version": "1.0.0",
-  "documentation": "https://github.com/seuuser/financas-homeassistant",
-  "requirements": ["sqlite3"],
-  "dependencies": [],
-  "codeowners": ["@seuuser"]
+  "documentation": "https://github.com/seu-usuario/financas-homeassistant",
+  "issue_tracker": "https://github.com/seu-usuario/financas-homeassistant/issues",
+  "codeowners": ["@seu-usuario"],
+  "requirements": [],
+  "iot_class": "local_polling"
 }
