@@ -1,1 +1,9 @@
-
+{
+  "domain": "financas",
+  "name": "Organizador Financeiro",
+  "version": "1.0.0",
+  "documentation": "https://github.com/seuuser/financas-homeassistant",
+  "requirements": ["sqlite3"],
+  "dependencies": [],
+  "codeowners": ["@seuuser"]
+}
